@@ -1,0 +1,4 @@
+﻿  uyg.cpp
+C:\Users\tunap\source\repos\uyg\uyg.cpp(21,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tunap\source\repos\uyg\uyg.cpp(22,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  uyg.vcxproj -> C:\Users\tunap\source\repos\uyg\x64\Debug\uyg.exe
